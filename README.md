@@ -3,9 +3,10 @@
 
 ## Team Members
 
-                                
+
+| Team Members:      |              |
 |--------------------|--------------|
-| Nishar	         | Dhruvi       |
+| Nishar	           | Dhruvi       |
 | Ouedraogo          | Flora        |
 | Hong	             | Eyre         |
 | Kohli	             | Manvir       |
